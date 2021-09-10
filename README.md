@@ -2,7 +2,7 @@
 ## Resources
 
 - **Data Sources:** 
-  - [From CitiBike Website: 201908-citibike-tripdata.csv](https://s3.amazonaws.com/tripdata/index.html)
+  - From CitiBike Website: [201908-citibike-tripdata.csv](https://s3.amazonaws.com/tripdata/index.html)
 - **Software:** Tableau, Python, Pandas, JupyterLab
 
 ## Challenge Project Overview 
