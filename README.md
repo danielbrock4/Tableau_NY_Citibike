@@ -15,4 +15,4 @@ First, I imported data into Tableau using data from the CitiBike website to buil
 
 Visit My Tableau Story: [CitiBike Challenge Story](https://public.tableau.com/app/profile/daniel.brock8416/viz/Tableau_NY_Citibike_Challenge/CitiBikeChallengeStory?publish=yes)
 
- ![Tableau Story](Challenge\Images/Preview.PNG)
+ ![Tableau Story](Challenge/Images/Preview.PNG)
