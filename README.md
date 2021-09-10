@@ -23,3 +23,11 @@ Story:
   5) However, this may be a good strategy to target our new bike locations around popular male attractions or gathering spots.
 
  ![Tableau Story](Challenge/Images/Preview.PNG)
+ 
+ ## Challange Project Summary
+ From our visualizations, we can observe that during weekdays bike usage is most active around mid-morning and late afternoons, meaning our rides are using CitiBikes as a commuting alternative. Males dominate the usage of Citibikes. 
+
+Two visualizations I would like to see for expanding into new locations:
+1) A map showing the ride usage dotted around the city. And additional dots pointing out popular male attractions such as sports bars, recreational facilities, etc. This way we could see if there was a correlation of the success of that location based on gender. 
+2) Another map dotting the city with sized trip duration markers. I would then layer in a map of subway and bus routes to see if longer trip durations are due to lack of public transit access.
+ 
