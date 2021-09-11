@@ -16,15 +16,19 @@ First, I imported data into Tableau using data from the CitiBike website to buil
 Visit My Tableau Story: [CitiBike Challenge Story](https://public.tableau.com/app/profile/daniel.brock8416/viz/Tableau_NY_Citibike_Challenge/CitiBikeChallengeStory?publish=yes)
 
 Story:
-  1) During the summer months, Citibike offers rides to more than 2 million customers. Most bike rides range from 2 to 20 minutes.
-     ![Fig1](Challenge/Images/Fig1.PNG)
-  2) Citibike locations now cover NYC and are integrated into the city as a transportations alternative.
+  1) During the summer months, Citibike offers rides to more than 2 million customers. 
+     ![Fig6](Challenge/Images/Fig6.PNG)
+  2) Most bike rides range from 2 to 20 minutes.
+     ![Fig7](Challenge/Images/Fig7.PNG)   
+  3) Citibike locations now cover NYC and are integrated into the city as a transportations alternative.
      ![Fig2](Challenge/Images/Fig2.PNG)
-  3) During the weekdays, customers use bikes to travel to and from work, which is indicated by the peak hours. On the weekends, bikes usage increases during the afternoons, telling us our bikes are now part of users' weekend activities.
-     ![Fig3](Challenge/Images/Fig3.PNG)
-  4) Males tend to be the largest Citibike users any day of the week.
+  4) During the weekdays, customers use bikes to travel to and from work, which is indicated by the peak hours. 
+     ![Fig8](Challenge/Images/Fig8.PNG)
+  5) On the weekends, bikes usage increases during the afternoons, telling us our bikes are now part of users' weekend activities.
+     ![Fig9](Challenge/Images/Fig9.PNG)   
+  6) Males tend to be the largest Citibike users any day of the week.
      ![Fig4](Challenge/Images/Fig4.PNG)
-  5) However, this may be a good strategy to target our new bike locations around popular male attractions or gathering spots.
+  7) However, this may be a good strategy to target our new bike locations around popular male attractions or gathering spots.
      ![Fig5](Challenge/Images/Fig5.PNG)
  
  ## Challange Project Summary
