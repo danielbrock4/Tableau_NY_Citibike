@@ -17,7 +17,7 @@ Visit My Tableau Story: [CitiBike Challenge Story](https://public.tableau.com/ap
 
 Story:
   1) During the summer months, Citibike offers rides to more than 2 million customers. Most bike rides range from 2 to 20 minutes.
-    -  ![Fig1](Challenge/Images/Fig1.PNG)
+    - ![Fig1](Challenge/Images/Fig1.PNG)
   3) Citibike locations now cover NYC and are integrated into the city as a transportations alternative.  
   4) During the weekdays, customers use bikes to travel to and from work, which is indicated by the peak hours. On the weekends, bikes usage increases during the afternoons, telling us our bikes are now part of users' weekend activities.
   5) Males tend to be the largest Citibike users any day of the week.
