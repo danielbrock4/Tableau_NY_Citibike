@@ -19,13 +19,13 @@ Story:
   1) During the summer months, Citibike offers rides to more than 2 million customers. Most bike rides range from 2 to 20 minutes.
      ![Fig1](Challenge/Images/Fig1.PNG)
   2) Citibike locations now cover NYC and are integrated into the city as a transportations alternative.
-     ![Fig1](Challenge/Images/Fig1.PNG)
+     ![Fig2](Challenge/Images/Fig2.PNG)
   3) During the weekdays, customers use bikes to travel to and from work, which is indicated by the peak hours. On the weekends, bikes usage increases during the afternoons, telling us our bikes are now part of users' weekend activities.
-     ![Fig1](Challenge/Images/Fig1.PNG)
+     ![Fig3](Challenge/Images/Fig3.PNG)
   4) Males tend to be the largest Citibike users any day of the week.
-     ![Fig1](Challenge/Images/Fig1.PNG)
+     ![Fig4](Challenge/Images/Fig4.PNG)
   5) However, this may be a good strategy to target our new bike locations around popular male attractions or gathering spots.
-     ![Fig1](Challenge/Images/Fig1.PNG)
+     ![Fig5](Challenge/Images/Fig5.PNG)
  
  ## Challange Project Summary
  From our visualizations, we can observe that during weekdays bike usage is most active around mid-morning and late afternoons, meaning our rides are using CitiBikes as a commuting alternative. Males dominate the usage of Citibikes. 
