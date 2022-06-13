@@ -1,4 +1,4 @@
-# NY Citibike Data Visualization Dashboard with Tableau & Python
+# Citibike Data Visualization Dashboard with Tableau & Python
 ## Resources
 
 - **Data Sources:** 
