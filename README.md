@@ -1,4 +1,4 @@
-# Module 14: NY Citibike with Tableau
+# NY Citibike Data Visualization Dashboard with Tableau & Python
 ## Resources
 
 - **Data Sources:** 
